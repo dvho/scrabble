@@ -1,7 +1,7 @@
 # Scrabble
 Scrabble is a lightweight module that lets you cheat on a wide range of word games, most notably, the eponymous. Pass your letters into Scrabble as a string and it will return an array of all the possible combinations of those letters that comprise words in the English Dictionary. The Scrabble module is also useful for "Words with Friends," and other popular iOS and Android apps.
 
-<img src="https://user-images.githubusercontent.com/45696445/51098960-ba088100-179b-11e9-9096-88b5b1d92d39.gif>
+<img src="https://user-images.githubusercontent.com/45696445/51098960-ba088100-179b-11e9-9096-88b5b1d92d39.gif">
 
 _________________________
 ## API
