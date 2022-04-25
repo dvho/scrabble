@@ -1,6 +1,6 @@
 {
     "name": "scrabble",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "description": "Scrabble is a lightweight module that lets you cheat on a wide range of word games, most notably, the eponymous. Pass your letters into Scrabble as a string and it will return an array of all the possible combinations of those letters that comprise words in the English dictionary.",
     "main": "scrabble.js",
     "scripts": {
